@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowmanHanoiTower", "SnowmanHanoiTower\SnowmanHanoiTower.csproj", "{0528BFFE-1EF9-4AF5-A22C-5142F1D4D8E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0528BFFE-1EF9-4AF5-A22C-5142F1D4D8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0528BFFE-1EF9-4AF5-A22C-5142F1D4D8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0528BFFE-1EF9-4AF5-A22C-5142F1D4D8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0528BFFE-1EF9-4AF5-A22C-5142F1D4D8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
