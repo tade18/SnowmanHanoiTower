@@ -1,1 +1,4 @@
-Hra funguje jako "Hanoiská věž" ale hráč staví sněhuláka. Úkolem je přemístit sněhové koule ve správném pořadí na poslední tyč. Na menší kouli nemůžeš položit větší.
+Christmas "Hanoi tower" game in monogame. Have fun!
+
+How to play Hanoi tower?
+   <i>The task is to move the snowballs in the correct order on the last pole. You cannot place a larger snowball on top of a smaller one.</i>
